@@ -1,4 +1,4 @@
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5190CD&random=false&width=435&lines=Felipe+Ruperti+Esteves;Developer+++;Felipe+Ruperti+Esteves;Desenvolvedor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5190CD&random=false&width=435&lines=Felipe+Ruperti+Esteves;Developer+++;Felipe+Ruperti+Esteves;Desenvolvedor)](https://git.io/typing-svg)
 <br>
 <br>
 Aqui você encontra meu site de apresentação, hospedado aqui mesmo no GithubPages, onde utilizei 
