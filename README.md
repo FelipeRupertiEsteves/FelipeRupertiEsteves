@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=350&size=15&pause=1000&color=FFF409&random=false&width=435&lines=Acesse+meu+site+Aqui!;site+desenvolvido+em+GitPages!;Com+HTML+CSS3++Bootstrap+e+JavaScript)]([https://git.io/typing-svg](https://feliperupertiesteves.github.io/Projeto-Site/))
   
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-ruperti-esteves/)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/felipeesteves91/)
   
 Web Dev
 
