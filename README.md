@@ -1,4 +1,4 @@
-#[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5190CD&random=false&width=435&lines=Felipe+Ruperti+Esteves;Developer+++;Felipe+Ruperti+Esteves;Desenvolvedor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5190CD&random=false&width=435&lines=Felipe+Ruperti+Esteves;Developer+++;Felipe+Ruperti+Esteves;Desenvolvedor)](https://git.io/typing-svg)
 
 
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
